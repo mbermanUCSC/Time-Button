@@ -1,7 +1,7 @@
-title = "Slide Under";
+title = "Time-Button";
 
 description = `
-[Tap] or [Space] Slow Down
+[Tap] Slow Down
 `;
 
 characters = [
